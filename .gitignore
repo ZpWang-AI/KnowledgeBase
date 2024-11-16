@@ -1,0 +1,39 @@
+__pycache__
+.vscode
+.git
+.DS_Store
+nohup.out
+
+*backup*/
+*trash*/
+*log*/
+*tmp*/
+old/
+local/
+# *archive
+
+# *.sh
+# *.cmd
+# *.ipynb
+*.zip
+*.7z
+*.log
+# *test*
+~*
+*~
+*~.*
+*.old*
+
+
+# ==============================
+
+/*
+!/.gitignore
+!/.gitmodules
+!/README.md
+!/requirements.txt
+!/setup.py
+!/VERSION
+
+!/src
+

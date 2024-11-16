@@ -1,0 +1,10 @@
+https://huggingface.co/learn
+
+NLP
+Deep RL
+CV
+Audio
+Open-source AI Cookbook
+ML for Games
+Diffusion
+ML for 3D

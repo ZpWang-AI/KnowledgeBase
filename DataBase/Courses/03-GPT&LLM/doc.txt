@@ -1,0 +1,6 @@
+LLM 论文
+https://docs.qq.com/doc/DZWZDdE9HTGJ5SWJ6
+
+# Instruct-UIE：信息抽取统一大模型
+# https://mp.weixin.qq.com/s/9FwxeMbH0or4liZd4mEoHQ
+

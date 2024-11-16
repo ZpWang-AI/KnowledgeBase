@@ -1,0 +1,6 @@
+[submodule "DataBase/Courses/01-Huggingface_tutorials"]
+	path = DataBase/Courses/01-Huggingface_tutorials
+	url = git@ssh.github.com:ZpWang-AI/Huggingface_Toturials.git
+[submodule "DataBase/Courses/02-HuggingfaceTasks"]
+	path = DataBase/Courses/02-HuggingfaceTasks
+	url = git@ssh.github.com:ZpWang-AI/Huggingface_Task.git

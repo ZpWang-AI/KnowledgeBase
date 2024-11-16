@@ -1,0 +1,12 @@
+# In domain
+
+Authors, Affiliation, Time, Publisher
+
+Figs
+
+Model Performance (baseline), Base Model <for comparison>
+
+Available Code
+
+Short conclusion, method Tags <for related work>
+
